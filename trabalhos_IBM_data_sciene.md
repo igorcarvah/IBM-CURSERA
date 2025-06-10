@@ -1,0 +1,1 @@
+Este repositório contém meus trabalhos do curso IBM Data Science da Cursera. Aqui, você encontrará meus projetos e atividades de cada módulo, desde a introdução ao Data Science até a Criação de modelos de Machine Learning.
